@@ -1,0 +1,2 @@
+# Typicode
+Typicode json file
